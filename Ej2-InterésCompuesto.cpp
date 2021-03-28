@@ -11,12 +11,12 @@ int main () {
 	
 	
 	printf("\tSeleccione la tasa de interes\n\n"
-		   "........5 porciento........(precione 1)\n"
-		   "........6 porciento........(precione 2)\n"
-		   "........8 porciento........(precione 3)\n"
-		   "........9 porciento........(precione 4)\n"
-		   "........10 porciento.......(precione 5)\n"
-		   "Al finalizar precione la tecla ENTER\n");
+		   "........5 porciento........(presione 1)\n"
+		   "........6 porciento........(presione 2)\n"
+		   "........8 porciento........(presione 3)\n"
+		   "........9 porciento........(presione 4)\n"
+		   "........10 porciento.......(presione 5)\n"
+		   "Al finalizar presione la tecla ENTER\n");
 	
 	scanf("%i", &opcion);
 	
